@@ -5,13 +5,13 @@
 
 ```javascript
 var andreas = {
-  pronouns : "he" | "his",
-  code : [Python, Java, C++, Scala, HTML, CSS],
-  tools : [PyTorch, Librosa, Gensim, SpaCy, Pandas, Scikit-learn, Spark NLP],
+  pronouns: "he" | "his",
+  code: [Python, Java, C++, Scala, HTML, CSS],
+  tools: [PyTorch, Librosa, Gensim, SpaCy, Pandas, Scikit-learn, Spark NLP],
 
-about: "I recently completed my bachelor's degree in applied computer science at HTW (Berlin).\n
-        Currently doing my intership at Fraunhofer Institut Fokus and developing a program to teach music theory in my free time.
-        I am really passionate about listening and making music, photography, cooking and have a professional medical background."
+  about: "I recently completed my bachelor's degree in applied computer science at HTW (Berlin).\n
+          Currently I'm working on a program about music theory and get myself familiar with AI-driven art.\n
+          I'm really passionate about making music, photography, cooking and have a professional medical background."
 }
 ```
 <!--gif src: https://giphy.com/catturaproduction-->
