@@ -1,5 +1,4 @@
 ![conway a message](intro.gif)
-<p><em>I am a junior data scientist with a focus on machine learning.</em></p>
 
 ### About me...
 
