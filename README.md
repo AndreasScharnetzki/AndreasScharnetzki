@@ -5,8 +5,8 @@
 ```javascript
 var andreas = {
   pronouns: "he" | "his",
-  code: [Python, Java, C++, Scala, HTML, CSS],
-  tools: [PyTorch, TensorFlow, Keras, Librosa, Gensim, SpaCy, Pandas, Scikit-learn, Spark NLP],
+  code: [Python, Java, C#, Scala, SQL, HTML, CSS],
+  tools: [PyTorch, TensorFlow, Keras, Librosa, Gensim, SpaCy, Pandas, Scikit-learn, Spark NLP, Postgres],
 
   about: "I'm about to completed my bachelor's degree in applied computer science at HTW-Berlin.\n
           Currently I'm working on a program about music theory and get myself familiar with AI-driven art.\n
