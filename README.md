@@ -7,7 +7,7 @@ var andreas = {
   pronouns: "he" | "his",
   code: [Python, Java, C#, Scala, SQL],
   tools: [PySpark, Airflow, Hue, Hive, HBase, HDFS, Pandas, PyTorch, TensorFlow, Keras, 
-  Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres],
+          Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres],
 
   about: "This year I completed my bachelor's degree in applied computer science at HTW-Berlin.\n
           Currently I'm working on a program about music theory (functional harmony) and get myself familiar with AI-driven art.\n
