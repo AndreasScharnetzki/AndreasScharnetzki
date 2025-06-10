@@ -6,12 +6,12 @@
 var andreas = {
   pronouns: "he" | "his",
   code: [Python, Java, C#, Scala, SQL],
-  tools: [PySpark, Airflow, Hue, Hive, HBase, HDFS, Pandas, PyTorch, TensorFlow, Keras, 
-          Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres],
+  tools: [PySpark, Airflow, HDFS, Pandas, PyTorch, TensorFlow, Keras, 
+          Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres, Ansible ...],
 
-  about: "This year I completed my bachelor's degree in applied computer science at HTW-Berlin.\n
-          Currently I'm working on a program about music theory (functional harmony) and get myself familiar with AI-driven art.\n
-          I'm really passionate about making music, photography, cooking and have a professional medical background."
+  about: "BA in applied computer science at HTW-Berlin.\n
+          Passionate about making music, photography, cooking.
+          Professional medical background."
 }
 ```
 <!--gif src: https://giphy.com/catturaproduction-->
