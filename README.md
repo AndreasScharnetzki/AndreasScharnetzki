@@ -4,7 +4,6 @@
 
 ```javascript
 var andreas = {
-  pronouns: "he" | "his",
   code: [Python, Java, C#, Scala, SQL],
   tools: [PySpark, Airflow, HDFS, Pandas, PyTorch, TensorFlow, Keras, 
           Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres, Ansible ...],
