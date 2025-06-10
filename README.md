@@ -10,7 +10,7 @@ var andreas = {
           Librosa, Gensim, SpaCy, NumPy, Scikit-learn, Spark NLP, Postgres, Ansible ...],
 
   about: "BA in applied computer science at HTW-Berlin.\n
-          Passionate about making music, photography, cooking.
+          Passionate about making music, photography, cooking.\n
           Professional medical background."
 }
 ```
